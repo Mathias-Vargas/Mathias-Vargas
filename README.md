@@ -14,7 +14,7 @@
 
 🎯 **Software, Data & BI Engineer** with 4+ years of experience designing scalable data pipelines, building business intelligence solutions, and developing backend systems. Currently working at **NTT DATA** across multiple technical roles — from data engineering and full-stack development to BI and process automation.
 
-📄 [**Download Resume (PDF)**](#) ← *coming soon*
+📄 [**Download Resume (PDF)**](./assets/MathiasVargasRamirez_Resume.pdf)
 
 ---
 
